@@ -1,0 +1,14 @@
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\bin\Debug\net8.0\ODEV-4.exe
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\bin\Debug\net8.0\ODEV-4.deps.json
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\bin\Debug\net8.0\ODEV-4.runtimeconfig.json
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\bin\Debug\net8.0\ODEV-4.dll
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\bin\Debug\net8.0\ODEV-4.pdb
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.AssemblyInfoInputs.cache
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.AssemblyInfo.cs
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.csproj.CoreCompileInputs.cache
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.dll
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\refint\ODEV-4.dll
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.pdb
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ODEV-4.genruntimeconfig.cache
+C:\Users\binha\OneDrive\Masaüstü\Algoritma Analizi Ödevleri\ODEV-4\ODEV-4\obj\Debug\net8.0\ref\ODEV-4.dll

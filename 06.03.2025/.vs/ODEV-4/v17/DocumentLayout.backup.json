@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\binha\\OneDrive\\Masa\u00FCst\u00FC\\Algoritma Analizi \u00D6devleri\\ODEV-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA504464-7418-46DD-B217-0C41A78CE879}|ODEV-4\\ODEV-4.csproj|c:\\users\\binha\\onedrive\\masa\u00FCst\u00FC\\algoritma analizi \u00F6devleri\\odev-4\\odev-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA504464-7418-46DD-B217-0C41A78CE879}|ODEV-4\\ODEV-4.csproj|solutionrelative:odev-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\binha\\OneDrive\\Masa\u00FCst\u00FC\\Algoritma Analizi \u00D6devleri\\ODEV-4\\ODEV-4\\Program.cs",
+              "RelativeDocumentMoniker": "ODEV-4\\Program.cs",
+              "ToolTip": "C:\\Users\\binha\\OneDrive\\Masa\u00FCst\u00FC\\Algoritma Analizi \u00D6devleri\\ODEV-4\\ODEV-4\\Program.cs",
+              "RelativeToolTip": "ODEV-4\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:18:51.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
